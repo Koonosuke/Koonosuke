@@ -18,6 +18,9 @@
 ## 😄 Pronouns:
 - He/Him
 
+## 📊 My Most Used Languages
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Koonosuke&layout=compact&theme=radical)
+
 ## ⚡ Fun fact:
 - I enjoy organizing events to help people connect and socialize outside of work.
 

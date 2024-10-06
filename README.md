@@ -28,10 +28,7 @@
 ## 📊 My Most Used Languages:
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Koonosuke&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-## ✨ Fun Facts About Me:
-- 💡 Always up for a new tech challenge.
-- 🎮 Gaming and coding go hand in hand for me—both keep me engaged and growing!
-- 🌏 I love connecting with fellow developers around the globe.
+
 
 ## 🖌️ Quote I Live By:
 > "Code is like humor. When you have to explain it, it’s bad." — Cory House

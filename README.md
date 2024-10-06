@@ -12,6 +12,7 @@
   - ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) **TypeScript**: Modern and type-safe JavaScript.
   - ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) **PHP**: Old but gold; still love crafting with it.
   - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) **JavaScript**: Essential for frontend magic.
+  - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) **Python**: Great for scripting and data analysis.
 - **Frameworks & Libraries:**
   - ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) **Spring Boot**: For REST APIs and backend services.
   - ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) **React**: My go-to for building engaging UIs.
@@ -27,8 +28,6 @@
 
 ## 📊 My Most Used Languages:
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Koonosuke&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 ## 🖌️ Quote I Live By:
 > "Code is like humor. When you have to explain it, it’s bad." — Cory House

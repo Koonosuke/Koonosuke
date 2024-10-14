@@ -3,6 +3,7 @@
 ## 🔭 What I'm Currently Working On:
 - 📝 A sleek note-taking app built with **Spring Boot**, **React**, and **PostgreSQL**.
 
+
 ## 🌱 Growing My Knowledge:
 - 🌟 Diving deep into advanced **TypeScript** concepts to sharpen my skills.
 

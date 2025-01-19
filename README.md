@@ -8,6 +8,7 @@
 - 🌟 Diving deep into advanced **TypeScript** concepts to sharpen my skills.
 
 ## 💻 Skills & Tech Stack:
+
 - **Languages:**
   - ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) **Java**: Reliable, powerful, and used for my backend.
   - ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) **TypeScript**: Modern and type-safe JavaScript.

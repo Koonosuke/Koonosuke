@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Koonosuke!
+# Hi there  I'm Koonosuke!
 
 ## 💻 Tech Stack:
 

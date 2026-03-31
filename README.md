@@ -1,20 +1,24 @@
-<h1 align="left">Koonosuke</h1>
+# Koonosuke
 
-<p align="left">
-  エンジニア目指しています。
-</p>
+Aspiring engineer.
 
-<br>
+---
 
 ## Tech Stack
 
+### Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,python,typescript,javascript,java,go,php,react,nextjs,nodejs,fastapi,spring,postgres,mongodb,firebase,docker,kubernetes,linux,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,go,php" />
 </p>
 
-## GitHub Stats
-
+### Frameworks
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Koonosuke&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koonosuke&layout=compact&theme=transparent&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,spring" />
 </p>
+
+### Others
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,postgres,mongodb,firebase,docker,kubernetes,linux,git,github,postman" />
+</p>
+
+---
